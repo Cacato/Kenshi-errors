@@ -1,5 +1,7 @@
 # Kenshi-errors
 Bought Kenshi a couple days ago and I'm already having a major issue.After what seems to be a random period of time, I lose the save/load, quicksave/load and exit function. I will provide a video of the issue happening in the next days when I get time, thanks for looking at this.
+
+
 Mods used : 
 core gamedata.base.
 core mod: Newwworld
