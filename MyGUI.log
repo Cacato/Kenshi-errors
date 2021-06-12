@@ -1,0 +1,159 @@
+21:23:02  |  Platform  |  Info  |  * Initialise: RenderManager  |  ..\..\..\..\Platforms\Ogre\OgrePlatform\src\MyGUI_OgreRenderManager.cpp  |  75
+21:23:02  |  Platform  |  Info  |  RenderManager successfully initialized  |  ..\..\..\..\Platforms\Ogre\OgrePlatform\src\MyGUI_OgreRenderManager.cpp  |  109
+21:23:02  |  Platform  |  Info  |  * Initialise: DataManager  |  ..\..\..\..\Platforms\Ogre\OgrePlatform\src\MyGUI_OgreDataManager.cpp  |  27
+21:23:02  |  Platform  |  Info  |  DataManager successfully initialized  |  ..\..\..\..\Platforms\Ogre\OgrePlatform\src\MyGUI_OgreDataManager.cpp  |  35
+21:23:02  |  Core  |  Info  |  * Initialise: Gui  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Gui.cpp  |  63
+21:23:02  |  Core  |  Info  |  * MyGUI version 3.2.3  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Gui.cpp  |  68
+21:23:02  |  Core  |  Info  |  * Initialise: ResourceManager  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  32
+21:23:02  |  Core  |  Info  |  ResourceManager successfully initialized  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  40
+21:23:02  |  Core  |  Info  |  * Initialise: LayerManager  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_LayerManager.cpp  |  33
+21:23:02  |  Core  |  Info  |  LayerManager successfully initialized  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_LayerManager.cpp  |  41
+21:23:02  |  Core  |  Info  |  * Initialise: WidgetManager  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_WidgetManager.cpp  |  56
+21:23:02  |  Core  |  Info  |  WidgetManager successfully initialized  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_WidgetManager.cpp  |  90
+21:23:02  |  Core  |  Info  |  * Initialise: InputManager  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_InputManager.cpp  |  46
+21:23:02  |  Core  |  Info  |  InputManager successfully initialized  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_InputManager.cpp  |  66
+21:23:02  |  Core  |  Info  |  * Initialise: SubWidgetManager  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_SubWidgetManager.cpp  |  36
+21:23:02  |  Core  |  Info  |  SubWidgetManager successfully initialized  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_SubWidgetManager.cpp  |  56
+21:23:02  |  Core  |  Info  |  * Initialise: SkinManager  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_SkinManager.cpp  |  36
+21:23:02  |  Core  |  Info  |  SkinManager successfully initialized  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_SkinManager.cpp  |  46
+21:23:02  |  Core  |  Info  |  * Initialise: FontManager  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_FontManager.cpp  |  32
+21:23:02  |  Core  |  Info  |  FontManager successfully initialized  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_FontManager.cpp  |  42
+21:23:02  |  Core  |  Info  |  * Initialise: ColourManager  |  ..\..\MyGUIEngine\src\MyGUI_ColourManager.cpp  |  31
+21:23:02  |  Core  |  Info  |  ColourManager successfully initialized  |  ..\..\MyGUIEngine\src\MyGUI_ColourManager.cpp  |  35
+21:23:02  |  Core  |  Info  |  * Initialise: ControllerManager  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ControllerManager.cpp  |  33
+21:23:02  |  Core  |  Info  |  ControllerManager successfully initialized  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ControllerManager.cpp  |  42
+21:23:02  |  Core  |  Info  |  * Initialise: PointerManager  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_PointerManager.cpp  |  43
+21:23:02  |  Core  |  Info  |  PointerManager successfully initialized  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_PointerManager.cpp  |  62
+21:23:02  |  Core  |  Info  |  * Initialise: ClipboardManager  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ClipboardManager.cpp  |  32
+21:23:02  |  Core  |  Info  |  ClipboardManager successfully initialized  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ClipboardManager.cpp  |  39
+21:23:02  |  Core  |  Info  |  * Initialise: LayoutManager  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_LayoutManager.cpp  |  28
+21:23:02  |  Core  |  Info  |  LayoutManager successfully initialized  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_LayoutManager.cpp  |  35
+21:23:02  |  Core  |  Info  |  * Initialise: DynLibManager  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_DynLibManager.cpp  |  26
+21:23:02  |  Core  |  Info  |  DynLibManager successfully initialized  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_DynLibManager.cpp  |  30
+21:23:02  |  Core  |  Info  |  * Initialise: PluginManager  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_PluginManager.cpp  |  30
+21:23:02  |  Core  |  Info  |  PluginManager successfully initialized  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_PluginManager.cpp  |  34
+21:23:02  |  Core  |  Info  |  * Initialise: LanguageManager  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_LanguageManager.cpp  |  31
+21:23:02  |  Core  |  Info  |  LanguageManager successfully initialized  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_LanguageManager.cpp  |  35
+21:23:02  |  Core  |  Info  |  * Initialise: FactoryManager  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_FactoryManager.cpp  |  25
+21:23:02  |  Core  |  Info  |  FactoryManager successfully initialized  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_FactoryManager.cpp  |  27
+21:23:02  |  Core  |  Info  |  * Initialise: ToolTipManager  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ToolTipManager.cpp  |  33
+21:23:02  |  Core  |  Info  |  ToolTipManager successfully initialized  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ToolTipManager.cpp  |  45
+21:23:02  |  Core  |  Info  |  Gui successfully initialized  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Gui.cpp  |  116
+21:23:02  |  Core  |  Info  |  Load ini file 'core_layer.xml'  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  114
+21:23:02  |  Core  |  Info  |  Load ini file 'common_skins.xml'  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  114
+21:23:02  |  Core  |  Info  |  Load ini file 'kenshi_skins.xml'  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  114
+21:23:02  |  Core  |  Info  |  Load ini file 'kenshi_colours.xml'  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  114
+21:23:02  |  Core  |  Info  |  Load ini file 'kenshi_fonts.xml'  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  114
+21:23:02  |  Core  |  Info  |  ResourceTrueTypeFont: Font 'Kenshi_StandardFont_Small' using texture size 128 x 256.  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ResourceTrueTypeFont.cpp  |  622
+21:23:02  |  Core  |  Info  |  ResourceTrueTypeFont: Font 'Kenshi_StandardFont_Small' using real height 16 pixels.  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ResourceTrueTypeFont.cpp  |  623
+21:23:02  |  Core  |  Info  |  ResourceTrueTypeFont: Font 'Kenshi_StandardFont_MediumSmall' using texture size 128 x 256.  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ResourceTrueTypeFont.cpp  |  622
+21:23:02  |  Core  |  Info  |  ResourceTrueTypeFont: Font 'Kenshi_StandardFont_MediumSmall' using real height 17 pixels.  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ResourceTrueTypeFont.cpp  |  623
+21:23:02  |  Core  |  Info  |  ResourceTrueTypeFont: Font 'Kenshi_StandardFont_Medium' using texture size 128 x 256.  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ResourceTrueTypeFont.cpp  |  622
+21:23:02  |  Core  |  Info  |  ResourceTrueTypeFont: Font 'Kenshi_StandardFont_Medium' using real height 22 pixels.  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ResourceTrueTypeFont.cpp  |  623
+21:23:02  |  Core  |  Info  |  ResourceTrueTypeFont: Font 'Kenshi_StandardFont_Large' using texture size 256 x 256.  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ResourceTrueTypeFont.cpp  |  622
+21:23:02  |  Core  |  Info  |  ResourceTrueTypeFont: Font 'Kenshi_StandardFont_Large' using real height 26 pixels.  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ResourceTrueTypeFont.cpp  |  623
+21:23:02  |  Core  |  Info  |  ResourceTrueTypeFont: Font 'Kenshi_PaintedTextFont_Small' using texture size 256 x 256.  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ResourceTrueTypeFont.cpp  |  622
+21:23:02  |  Core  |  Info  |  ResourceTrueTypeFont: Font 'Kenshi_PaintedTextFont_Small' using real height 22 pixels.  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ResourceTrueTypeFont.cpp  |  623
+21:23:02  |  Core  |  Info  |  ResourceTrueTypeFont: Font 'Kenshi_PaintedTextFont_Medium' using texture size 256 x 256.  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ResourceTrueTypeFont.cpp  |  622
+21:23:02  |  Core  |  Info  |  ResourceTrueTypeFont: Font 'Kenshi_PaintedTextFont_Medium' using real height 27 pixels.  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ResourceTrueTypeFont.cpp  |  623
+21:23:02  |  Core  |  Info  |  ResourceTrueTypeFont: Font 'Kenshi_PaintedTextFont_Large' using texture size 256 x 256.  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ResourceTrueTypeFont.cpp  |  622
+21:23:02  |  Core  |  Info  |  ResourceTrueTypeFont: Font 'Kenshi_PaintedTextFont_Large' using real height 30 pixels.  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ResourceTrueTypeFont.cpp  |  623
+21:23:03  |  Core  |  Info  |  ResourceTrueTypeFont: Font 'Kenshi_BannerTextFont' using texture size 1024 x 1024.  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ResourceTrueTypeFont.cpp  |  622
+21:23:03  |  Core  |  Info  |  ResourceTrueTypeFont: Font 'Kenshi_BannerTextFont' using real height 162 pixels.  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ResourceTrueTypeFont.cpp  |  623
+21:23:03  |  Core  |  Info  |  ResourceTrueTypeFont: Font 'Kenshi_FloaterFont_Small' using texture size 128 x 256.  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ResourceTrueTypeFont.cpp  |  622
+21:23:03  |  Core  |  Info  |  ResourceTrueTypeFont: Font 'Kenshi_FloaterFont_Small' using real height 22 pixels.  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ResourceTrueTypeFont.cpp  |  623
+21:23:03  |  Core  |  Info  |  ResourceTrueTypeFont: Font 'Kenshi_FloaterFont_Medium' using texture size 256 x 256.  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ResourceTrueTypeFont.cpp  |  622
+21:23:03  |  Core  |  Info  |  ResourceTrueTypeFont: Font 'Kenshi_FloaterFont_Medium' using real height 23 pixels.  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ResourceTrueTypeFont.cpp  |  623
+21:23:03  |  Core  |  Info  |  ResourceTrueTypeFont: Font 'Kenshi_FloaterFont_Large' using texture size 256 x 256.  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ResourceTrueTypeFont.cpp  |  622
+21:23:03  |  Core  |  Info  |  ResourceTrueTypeFont: Font 'Kenshi_FloaterFont_Large' using real height 28 pixels.  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ResourceTrueTypeFont.cpp  |  623
+21:23:03  |  Core  |  Info  |  ResourceTrueTypeFont: Font 'Kenshi_UI_Messages' using texture size 512 x 256.  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ResourceTrueTypeFont.cpp  |  622
+21:23:03  |  Core  |  Info  |  ResourceTrueTypeFont: Font 'Kenshi_UI_Messages' using real height 119 pixels.  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ResourceTrueTypeFont.cpp  |  623
+21:23:03  |  Core  |  Info  |  Load ini file 'kenshi_images.xml'  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  114
+21:23:03  |  Core  |  Info  |  Load ini file 'kenshi_pointers.xml'  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  114
+21:23:03  |  Core  |  Info  |  Load ini file 'core_settings.xml'  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  114
+21:23:03  |  Core  |  Info  |  Load ini file 'kenshi_templates.xml'  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  114
+21:23:12  |  Core  |  Warning  |  Widget property 'FontName' not found [Kenshi_OptionsPanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:23:12  |  Core  |  Warning  |  Widget property 'TextAlign' not found [Kenshi_OptionsPanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:23:12  |  Core  |  Warning  |  Widget property 'TextColour' not found [Kenshi_OptionsPanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:23:12  |  Core  |  Warning  |  Widget property 'TextShadow' not found [Kenshi_OptionsPanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:23:12  |  Core  |  Warning  |  Widget property 'TextShadowColour' not found [Kenshi_OptionsPanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:23:12  |  Core  |  Warning  |  Widget property 'Static' not found [Kenshi_OptionsPanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:23:12  |  Core  |  Warning  |  Widget property 'MultiLine' not found [Kenshi_OptionsPanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:23:12  |  Core  |  Warning  |  Widget property 'WordWrap' not found [Kenshi_OptionsPanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:28:02  |  Core  |  Warning  |  Widget property 'FontName' not found [Kenshi_MainPanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:28:02  |  Core  |  Warning  |  Widget property 'TextAlign' not found [Kenshi_MainPanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:28:02  |  Core  |  Warning  |  Widget property 'TextColour' not found [Kenshi_MainPanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:28:02  |  Core  |  Warning  |  Widget property 'TextShadow' not found [Kenshi_MainPanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:28:02  |  Core  |  Warning  |  Widget property 'TextShadowColour' not found [Kenshi_MainPanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:28:02  |  Core  |  Warning  |  Widget property 'MoveToClick' not found [Kenshi_MainPanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:28:02  |  Core  |  Warning  |  Widget property 'MoveToClick' not found [Kenshi_MainPanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:28:02  |  Core  |  Warning  |  Widget property 'MoveToClick' not found [Kenshi_MainPanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:28:02  |  Core  |  Warning  |  Widget with name 'LifeBar10' not found. [Kenshi_MainPanel.layout]  |  D:\kenshi\kenshi-dependencies\mygui\Common\BaseLayout/BaseLayout.h  |  57
+21:28:02  |  Core  |  Warning  |  Widget with name 'ResearchBenchMessage' not found. [Kenshi_OverviewWindow.layout]  |  D:\kenshi\kenshi-dependencies\mygui\Common\BaseLayout/BaseLayout.h  |  57
+21:28:03  |  Core  |  Warning  |  Widget property 'MoveToClick' not found []  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:43:28  |  Core  |  Warning  |  Widget property 'FontName' not found []  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:43:28  |  Core  |  Warning  |  Widget property 'WordWrap' not found []  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:43:28  |  Core  |  Warning  |  Widget property 'Static' not found []  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:45:13  |  Core  |  Warning  |  Widget property 'Caption' not found [Kenshi_InventoryTraderWindow.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:47:57  |  Core  |  Warning  |  Widget property 'Caption' not found [Kenshi_InventoryTraderWindow.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:48:35  |  Core  |  Warning  |  Widget property 'Caption' not found [Kenshi_InventoryTraderWindow.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:49:05  |  Core  |  Warning  |  Widget property 'FontName' not found [Kenshi_SaveGamePanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:49:05  |  Core  |  Warning  |  Widget property 'TextColour' not found [Kenshi_SaveGamePanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:49:05  |  Core  |  Warning  |  Widget property 'TextShadow' not found [Kenshi_SaveGamePanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:49:05  |  Core  |  Warning  |  Widget property 'TextShadowColour' not found [Kenshi_SaveGamePanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:49:17  |  Core  |  Warning  |  Widget property 'FontName' not found [Kenshi_LoadGamePanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:49:17  |  Core  |  Warning  |  Widget property 'TextColour' not found [Kenshi_LoadGamePanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:49:17  |  Core  |  Warning  |  Widget property 'TextShadow' not found [Kenshi_LoadGamePanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:49:17  |  Core  |  Warning  |  Widget property 'TextShadowColour' not found [Kenshi_LoadGamePanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:51:37  |  Core  |  Warning  |  Widget property 'FontName' not found [Kenshi_LoadGamePanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:51:37  |  Core  |  Warning  |  Widget property 'TextColour' not found [Kenshi_LoadGamePanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:51:37  |  Core  |  Warning  |  Widget property 'TextShadow' not found [Kenshi_LoadGamePanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:51:37  |  Core  |  Warning  |  Widget property 'TextShadowColour' not found [Kenshi_LoadGamePanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:52:56  |  Core  |  Warning  |  Widget property 'Caption' not found [Kenshi_InventoryTraderWindow.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:53:21  |  Core  |  Warning  |  Widget property 'Caption' not found [Kenshi_InventoryTraderWindow.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:53:34  |  Core  |  Warning  |  Widget property 'Caption' not found [Kenshi_InventoryTraderWindow.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:54:32  |  Core  |  Warning  |  Widget property 'Caption' not found [Kenshi_InventoryTraderWindow.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:54:53  |  Core  |  Warning  |  Widget property 'Caption' not found [Kenshi_InventoryTraderWindow.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:56:00  |  Core  |  Warning  |  Widget property 'Caption' not found [Kenshi_InventoryTraderWindow.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:56:52  |  Core  |  Warning  |  Widget property 'Caption' not found [Kenshi_InventoryTraderWindow.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:57:30  |  Core  |  Warning  |  Widget property 'Caption' not found [Kenshi_InventoryTraderWindow.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:58:11  |  Core  |  Warning  |  Widget property 'MultiLine' not found [Kenshi_GenericBuildingWindow.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:58:11  |  Core  |  Warning  |  Widget property 'ReadOnly' not found [Kenshi_GenericBuildingWindow.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:58:11  |  Core  |  Warning  |  Widget property 'Static' not found [Kenshi_GenericBuildingWindow.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:58:11  |  Core  |  Warning  |  Widget property 'VisibleHScroll' not found [Kenshi_GenericBuildingWindow.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:58:11  |  Core  |  Warning  |  Widget property 'VisibleVScroll' not found [Kenshi_GenericBuildingWindow.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:58:11  |  Core  |  Warning  |  Widget property 'MoveToClick' not found [Kenshi_GenericBuildingWindow.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:58:11  |  Core  |  Warning  |  Widget property 'MoveToClick' not found [Kenshi_GenericBuildingWindow.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:58:11  |  Core  |  Warning  |  Widget property 'MoveToClick' not found [Kenshi_GenericBuildingWindow.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:58:38  |  Core  |  Warning  |  Widget property 'MultiLine' not found [Kenshi_GenericBuildingWindow.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:58:38  |  Core  |  Warning  |  Widget property 'ReadOnly' not found [Kenshi_GenericBuildingWindow.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:58:38  |  Core  |  Warning  |  Widget property 'Static' not found [Kenshi_GenericBuildingWindow.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:58:38  |  Core  |  Warning  |  Widget property 'VisibleHScroll' not found [Kenshi_GenericBuildingWindow.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:58:38  |  Core  |  Warning  |  Widget property 'VisibleVScroll' not found [Kenshi_GenericBuildingWindow.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:58:38  |  Core  |  Warning  |  Widget property 'MoveToClick' not found [Kenshi_GenericBuildingWindow.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:58:38  |  Core  |  Warning  |  Widget property 'MoveToClick' not found [Kenshi_GenericBuildingWindow.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:58:38  |  Core  |  Warning  |  Widget property 'MoveToClick' not found [Kenshi_GenericBuildingWindow.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:59:09  |  Core  |  Warning  |  Widget property 'FontName' not found [Kenshi_SaveGamePanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:59:09  |  Core  |  Warning  |  Widget property 'TextColour' not found [Kenshi_SaveGamePanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:59:09  |  Core  |  Warning  |  Widget property 'TextShadow' not found [Kenshi_SaveGamePanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:59:09  |  Core  |  Warning  |  Widget property 'TextShadowColour' not found [Kenshi_SaveGamePanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:59:20  |  Core  |  Warning  |  Widget property 'FontName' not found [Kenshi_SaveGamePanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:59:20  |  Core  |  Warning  |  Widget property 'TextColour' not found [Kenshi_SaveGamePanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:59:20  |  Core  |  Warning  |  Widget property 'TextShadow' not found [Kenshi_SaveGamePanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:59:20  |  Core  |  Warning  |  Widget property 'TextShadowColour' not found [Kenshi_SaveGamePanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:59:40  |  Core  |  Warning  |  Widget property 'MultiLine' not found [Kenshi_GenericBuildingWindow.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:59:40  |  Core  |  Warning  |  Widget property 'ReadOnly' not found [Kenshi_GenericBuildingWindow.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:59:40  |  Core  |  Warning  |  Widget property 'Static' not found [Kenshi_GenericBuildingWindow.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:59:40  |  Core  |  Warning  |  Widget property 'VisibleHScroll' not found [Kenshi_GenericBuildingWindow.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:59:40  |  Core  |  Warning  |  Widget property 'VisibleVScroll' not found [Kenshi_GenericBuildingWindow.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:59:40  |  Core  |  Warning  |  Widget property 'MoveToClick' not found [Kenshi_GenericBuildingWindow.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:59:40  |  Core  |  Warning  |  Widget property 'MoveToClick' not found [Kenshi_GenericBuildingWindow.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+21:59:40  |  Core  |  Warning  |  Widget property 'MoveToClick' not found [Kenshi_GenericBuildingWindow.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+22:01:35  |  Core  |  Warning  |  Widget property 'FontName' not found [Kenshi_LoadGamePanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+22:01:35  |  Core  |  Warning  |  Widget property 'TextColour' not found [Kenshi_LoadGamePanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+22:01:35  |  Core  |  Warning  |  Widget property 'TextShadow' not found [Kenshi_LoadGamePanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+22:01:35  |  Core  |  Warning  |  Widget property 'TextShadowColour' not found [Kenshi_LoadGamePanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+22:01:43  |  Core  |  Warning  |  Widget property 'FontName' not found [Kenshi_LoadGamePanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+22:01:43  |  Core  |  Warning  |  Widget property 'TextColour' not found [Kenshi_LoadGamePanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+22:01:43  |  Core  |  Warning  |  Widget property 'TextShadow' not found [Kenshi_LoadGamePanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
+22:01:43  |  Core  |  Warning  |  Widget property 'TextShadowColour' not found [Kenshi_LoadGamePanel.layout]  |  C:\kenshi\kenshi-dependencies\mygui\MyGUIEngine\src\MyGUI_Widget.cpp  |  1210
